@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MR46073
-- 👀 I’m interested in Programming websites and create projects using my IT skills.
+- 👀 I’m interested in using and growing my IT skills.
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me. my mail is mohammadalishaikh073@gmail.com
